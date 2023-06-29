@@ -11,7 +11,7 @@ Krijoni një klasë "Kontakt" me atributet e nevojshme si emër, mbiemër, adres
 Hapi 3: Krijimi i Repository për kontaktet
 Krijoni një interface për Repository të kontaktit, që do të lejojë leximin, krijimin, përditësimin dhe fshirjen e kontakteve në bazën e të dhënave.
 Hapi 4: Krijimi i Service për menaxhimin e kontakteve
-Hapi 5: Krijimi i Controller-it për menaxhimin e kontakteve
+Hapi 5: Krijimi i Controller-it për menaxhimin e kontakteve pra GET,POST,PUT,DELETE
 
 
 
@@ -29,4 +29,4 @@ Hapi 3: Krijimi i modelit tuaj Punonjësit.
 Krijoni klasën "Punonjesi" me atributet e nevojshme si emri, mbiemri dhe pozicioni i punonjësit, creation_date qe do te plotesohet nga backendi ne momentin kur krijohet nje punonjes.
 Hapi 4: Krijimi i Repository për Departamentin dhe Punonjesin.
 Hapi 5: Krijimi i Service për menaxhimin e Departamentit dhe Punonjesit
-Hapi 6: Krijimi i Controller-ave për menaxhimin e Departamentit dhe Punonjesit
+Hapi 6: Krijimi i Controller-ave për menaxhimin e Departamentit dhe Punonjesit  GET,POST,PUT,DELETE për Punonjesin njelloh GET,POST,PUT, DELETE 
